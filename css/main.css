@@ -16,12 +16,14 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
-nav a{
+nav a {
+  color: blue
+  text-decoration: none;
   font-size: 1.125rem;
   font-family: sans-serif;
   font-weight: bold
 }
-nav a ol {
+nav ol {
   list-style-type: none;
 }
 nav a:hover {
@@ -33,4 +35,5 @@ nav a:hover {
 }
 nav, h1, h2 {
   font-family: 'Patua One', sans-serif;
+  font-weight: normal;
 }
