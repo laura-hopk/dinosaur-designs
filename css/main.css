@@ -9,6 +9,7 @@ img {
 }
 
 h1, h2 {
+  font-family: "sans-serif"
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -20,6 +21,7 @@ figcaption {
 }
 
 nav {
+  font-family: "sans-serif"
   font-size: 1.125rem;
   font-weight: bold;
 }
