@@ -18,8 +18,8 @@ figcaption {
 }
 nav {
   font-size: 1.125rem;
-  font-weight: bold
   font-family: sans-serif;
+  font-weight: bold
 }
 nav ol {
   list-style-type: none;
